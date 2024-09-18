@@ -9,7 +9,7 @@ The data used for the study is taken from [Rohlik Orders Forecasting Challenge](
 ## 📄 Algorithms
 The statistical forecasting has been carried out by using AutoARIMA, AutoETS and AutoTBATS from StatsForecast library. The study also uses Bagging methods like Random Forest and Boosting algorithms like XGBoost and Light GBM using the MLForecast library. Amongst the neural network architectures the study has chosen TFT and NHITS from NeuralForecast library [24]. The study has also used the Foundational Models TimeGPT [17] and TimesFM [19] for comparison with the other three broad classes of models
 
-- ## 🛠️ Daily Data 
+## 🛠️ Daily Data 
 - The monthly forcasting data and notebook can be found [here](https://github.com/Satyajit-Chaudhuri/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting/tree/main/Daily_Forecasting).
   
 ## 🛠️ Weekly Data
@@ -18,7 +18,7 @@ The statistical forecasting has been carried out by using AutoARIMA, AutoETS and
 ## 🛠️ Monthly Data
 - The monthly forcasting data and notebook can be found [here](https://github.com/Satyajit-Chaudhuri/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting/tree/main/Monthly_Forecasting).
 
-- ## 🛠️ Monthly Data with Finetuning
+## 🛠️ Monthly Data with Finetuning
 - The monthly forcasting data and notebook can be found [here](https://github.com/Satyajit-Chaudhuri/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting/tree/main/Monthly_Forecasting_with_TimeGPT_Finetuned).
 
 ✅ **Results:** 
