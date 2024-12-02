@@ -71,6 +71,5 @@ algorithm across all time granularities. These were closely followed by the DL &
 TimeGPT has also outperformed the statistical and ML models across some time horizons. Overall, it
 can be concluded that the foundational models, although being very new members of a forecasters’
 toolkit, has shown impressive performance and can be used to establish a strong baseline for further
-research. The FMs can adapt to new data distributions with minimal tuning and do not require manual
-feature engineering and careful selection of lagged variables unlike ML regressors and thus allow the
+research. Also, prediction intervals need to be calibrated for better performance of TimesFM.The FMs can adapt to new data distributions with minimal tuning and do not require manual feature engineering and careful selection of lagged variables unlike ML regressors and thus allow the
 users to build and deploy forecasting solutions quickly and easily
