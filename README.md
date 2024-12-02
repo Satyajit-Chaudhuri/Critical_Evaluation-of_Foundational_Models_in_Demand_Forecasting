@@ -9,8 +9,8 @@ This study demonstrates that **TimesFM** emerged as the better-performing model 
 
 ## 📈 Data  
 The data used for the study is sourced from two datasets:  
-1. **Daily Time Granularity**: The dataset is from the [Rohlik Orders Forecasting Challenge](https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge). Data from four warehouses (**Prague_1**, **Prague_2**, **Prague_3**, and **Brno_1**) was utilized.  
-2. **Weekly and Monthly Granularity**: Data with 5,800 unique combinations from the [**VN1 Forecasting Accuracy Challenge dataset**](https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn1-forecasting-accuracy-challenge-phase-1/description) was aggregated to weekly and monthly levels.  
+1. **Daily Time Granularity**: The dataset is from the [**Rohlik Orders Forecasting Challenge**](https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge). Data from four warehouses were utilized.  
+2. **Weekly and Monthly Granularity**: Data with 5,800 unique combinations from the [**VN1 Forecasting Accuracy Challenge dataset**](https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn1-forecasting-accuracy-challenge-phase-1/description) was taken for weekly level and aggregated to monthly levels.  
 
 These datasets, being recent, ensure that no pretrained models were exposed to them, enabling an unbiased evaluation.  
 
@@ -28,11 +28,6 @@ These datasets, being recent, ensure that no pretrained models were exposed to t
 
 ### **Foundation Models**:  
 - **TimeGPT** and **TimesFM** were compared with the above models.  
-
-## 🛠️ Notebooks and Data  
-- **Daily Forecasting**: [GitHub Link](https://anonymous.4open.science/r/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting-BB71/)  
-- **Weekly Forecasting**: [GitHub Link](https://anonymous.4open.science/r/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting-BB71/)  
-- **Monthly Forecasting**: [GitHub Link](https://anonymous.4open.science/r/Critical_Evaluation-of_Foundational_Models_in_Demand_Forecasting-BB71/)  
 
 ## ✅ Results  
 ### **Daily Data**  
